@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tiny Arcade</string>
+    <string name="main_subtitle">Players</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="email_label">Email</string>
+    <string name="phone_label">Phone</string>
+    <string name="street_address_label">Street Address</string>
+    <string name="city_label">City</string>
+    <string name="province_state_label">Province/State</string>
+    <string name="action_add">Add</string>
+    <string name="add_button">Add</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_button">Update</string>
+    <string name="action_game">Play Game</string>
+    <string name="next_move_label">Next Move</string>
+    <string name="make_move_button">Make Move</string>
+    <string-array name="choice_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="history_subtitle">View Previous Gameplays</string>
+    <string name="action_game_reset">Reset</string>
+    <string name="history_button">Game History</string>
+    <string name="action_debug_mode">Debug Mode</string>
+    <string name="date_label">Date</string>
+    <string name="gameplay_label">Gameplay</string>
+    <string name="play_game_button">Play Game</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_update">Update</string>
+    <string name="game_instruction">
+        This game is played by you and me (your phone).
+        We have to take 1, 2, or 3 sticks on each turn.
+        The goal of the game is to avoid taking the last stick.
+        The player who takes the last stick loses.
+        Lets play the game!</string>
+    <string name="games_won_label">Games Won</string>
+    <string name="games_played_label">Games Played</string>
+</resources>
